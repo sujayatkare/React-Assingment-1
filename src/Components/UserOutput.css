@@ -1,0 +1,8 @@
+.userOutput {
+    width : 60%;
+    margin : 15px auto;
+    border : 1px solid red;
+    box-shadow :   3px 3px 2px purple;
+    padding : 15px;
+    text-align : center;
+}
